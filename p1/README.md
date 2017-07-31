@@ -1,0 +1,3 @@
+# Practical 1: Predicting the Efficiency of Organic Photovoltaics
+
+This project is part of Harvard Clean Energy Project aiming at finding a good organic photovoltaic molecules to replace silicon semiconductors in solar cells. Our goal is to build a regression model that predicts the energy of each molecule based on features extracted from chemical formula. We trained several regression models on 10,000 molecules, and validated the performance using R-square on the validation set. Out of the several models we trained, random forest achieved the best performance with R-square 0.93 on the validation set.
